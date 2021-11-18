@@ -1,0 +1,11 @@
+{
+  "blockchain": "shibgreen",
+  "binary": "/shibgreen-blockchain/venv/bin/shibgreen",
+  "mainnet": ".shibgreen/mainnet",
+  "config": ".shibgreen/mainnet/config/config.yaml",
+  "chainlog": ".shibgreen/mainnet/log/debug.log",
+  "webLogLevel": "error",
+  "webLogFile": ".shibgreen/web.log",
+  "watchDogLogLevel": "error",
+  "watchDogLogFile": ".shibgreen/cwd.log"
+}
